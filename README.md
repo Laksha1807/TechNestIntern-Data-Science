@@ -5,7 +5,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 ---
 ## 🖼️ ETL Process Diagram
 
-![ETL Process](ETL%20Process%20for%20Titanic%20Dataset%20-%20visual%20selection.png)
+![ETL Process](etl_titanic_process.png)
 
 ---
 ## 📂 Dataset
