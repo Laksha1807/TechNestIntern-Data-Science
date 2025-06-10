@@ -3,7 +3,11 @@
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline using the classic Titanic dataset. The goal is to prepare the data for further analysis and modeling by cleaning missing values, encoding categorical variables, and engineering new features.
 
 ---
+## 🖼️ ETL Process Diagram
 
+![ETL Process](ETL%20Process%20for%20Titanic%20Dataset%20-%20visual%20selection.png)
+
+---
 ## 📂 Dataset
 
 - **Source:** [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
