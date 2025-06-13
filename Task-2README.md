@@ -9,7 +9,7 @@ In the era of rapid digital communication, fake news has emerged as a serious th
 🚀 What This Project Does
 This project classifies news articles as real or fake using natural language processing techniques and neural networks. It utilizes labeled datasets containing genuine and fabricated news and builds a robust, interpretable model to distinguish between the two with high accuracy.
 
-![Fake News Detection Layers](fakenewsvisual.png)
+![Fake News Detection Layers](Fakenewsvisual.png)
 
 ---
 ⚙️ How It Works
