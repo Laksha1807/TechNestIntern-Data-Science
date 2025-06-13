@@ -65,18 +65,22 @@ LinkedIn | GitHub
 Titanic dataset by Kaggle
 
 Assistance from Julius AI, Napkin AI, NotebookLM, and ChatGPT
+---
 
 
 
 📰 Fake News Detection Using NLP and Deep Learning(TASK 2)
+
 📌 Project Summary
 In the era of rapid digital communication, fake news has emerged as a serious threat to public trust and social stability. This project presents a deep learning-based NLP solution for automatically detecting fake news articles using real-world datasets.
 
+---
 🚀 What This Project Does
 This project classifies news articles as real or fake using natural language processing techniques and neural networks. It utilizes labeled datasets containing genuine and fabricated news and builds a robust, interpretable model to distinguish between the two with high accuracy.
 
 ![Fake News Detection Layers](fakenewsvisual.png)
 
+---
 ⚙️ How It Works
 Data Preprocessing:
 
@@ -112,6 +116,7 @@ Confusion Matrix, ROC-AUC curve, classification report.
 
 Attention heatmaps and SHAP/LIME visualizations for interpretability.
 
+---
 🧠 Core Logic
 The model learns patterns in language, semantics, and tone that are statistically correlated with either truthful or fabricated content. It focuses on:
 
@@ -123,6 +128,7 @@ Semantic coherence and topic consistency.
 
 By training on these signals, the model generalizes to identify new, unseen news articles as likely real or fake.
 
+---
 ✨ Project Features
 ✅ Clean, labeled dataset integration
 
