@@ -44,7 +44,7 @@ Ensure you have Python 3.x installed. Then install dependencies:
 
 pip install pandas scikit-learn
 
-##▶️ How to Run
+## ▶️ How to Run
 Run in Jupyter Notebook:
 Open Titanic_ETL_Notebook.ipynb in Jupyter and run all cells.
 
