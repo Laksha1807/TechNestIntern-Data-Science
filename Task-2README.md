@@ -9,7 +9,6 @@ In the era of rapid digital communication, fake news has emerged as a serious th
 🚀 What This Project Does
 This project classifies news articles as real or fake using natural language processing techniques and neural networks. It utilizes labeled datasets containing genuine and fabricated news and builds a robust, interpretable model to distinguish between the two with high accuracy.
 
-![Fake News Detection Layers](Fakenewsvisual.png)
 
 ---
 ⚙️ How It Works
@@ -47,6 +46,8 @@ Confusion Matrix, ROC-AUC curve, classification report.
 
 Attention heatmaps and SHAP/LIME visualizations for interpretability.
 
+![Fake News Detection Layers](visualfakenews.png)
+
 ---
 🧠 Core Logic
 The model learns patterns in language, semantics, and tone that are statistically correlated with either truthful or fabricated content. It focuses on:
@@ -58,6 +59,8 @@ Sentence structure and information density.
 Semantic coherence and topic consistency.
 
 By training on these signals, the model generalizes to identify new, unseen news articles as likely real or fake.
+
+![Fake News Detection Logic](corelogicfakenews.png)
 
 ---
 ✨ Project Features
@@ -83,4 +86,5 @@ Knowledge graph support (optional)
 
 🌐 Ready for deployment or research extension
 
+![Fake News Detection Characteristics](characteristicfakenews.png)
 
