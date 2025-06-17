@@ -36,6 +36,17 @@ This Streamlit-based web application predicts the likelihood of a person having 
 - Passes input to the trained model
 - Displays the prediction: **"At Risk"** or **"Healthy"**
 
+###🧠 Behind the scenes:
+
+The model outputs 1 for "At risk of heart disease"
+
+And 0 for "Not at risk"
+
+This output is then displayed in plain, human-readable form on the web app UI as:
+
+✅ "The person is not likely to have heart disease."
+❗ "The person is likely to have heart disease."
+
 ---
 
 ## 🛠 Tech Stack
@@ -58,4 +69,12 @@ Clean and responsive UI
 Deployable on Streamlit Cloud
 
 Fully integrated with GitHub
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/Laksha1807/TechNestIntern-Data-Science.git
+cd TechNestIntern-Data-Science/heart_disease_app
+pip install -r requirements.txt
+streamlit run heart_app.py
 
