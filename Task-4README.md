@@ -23,7 +23,7 @@ Weight_in_gms – Product weight
 Cost_of_the_Product, Discount_offered, and delivery status
 
 🔧 Methodology
-![Optimization Process](Task 4 - visual selection.png)
+![Optimization Process](Task4-visual_selection.png)
 Converted weight to kg from grams.
 
 Assigned costs per kg based on shipping mode:
