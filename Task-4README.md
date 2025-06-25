@@ -25,6 +25,7 @@ Cost_of_the_Product, Discount_offered, and delivery status
 🔧 Methodology
 
 ![Optimization Process](Task4-visual_selection.png)
+
 Converted weight to kg from grams.
 
 Assigned costs per kg based on shipping mode:
